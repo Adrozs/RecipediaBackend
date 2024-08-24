@@ -1,0 +1,6 @@
+@Recipedia_HostAddress = http://localhost:5165
+
+GET {{Recipedia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
